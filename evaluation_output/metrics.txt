@@ -1,0 +1,4 @@
+Evaluation metrics (whole image)
+L1   mean=0.095333, std=0.024382
+PSNR mean=19.01 dB, std=2.34
+SSIM mean=0.6403, std=0.1521
